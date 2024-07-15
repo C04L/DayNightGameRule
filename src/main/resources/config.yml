@@ -1,0 +1,12 @@
+DayTick: 23000
+NightTick: 12610
+#Khả năng chết rơi mất đồ (phải là số thực từ 0->1 VD: 0.1 = 10%, 0.5 = 50%,...)
+DropChance: 1.0
+DayTitle: "&a&lTrời sáng"
+DaySubtitle: "&echết không mất đồ..."
+NightTitle: "&c&lTrời tối"
+NightSubtitle: "&echết mất đồ..."
+NetherTitle: "&4&lNether"
+NetherSubtitle: "&echết mất đồ..."
+TheEndTitle: "&5&lThe End"
+TheEndSubtitle: "&echết mất đồ..."

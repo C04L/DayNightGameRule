@@ -1,0 +1,16 @@
+name: DayNightGameRule
+version: '1.0.0'
+main: wibuland.daynightgamerule.DayNightGameRule
+author: C04l
+api-version: '1.17'
+commands:
+    daynightgamerule:
+      description: 'Command for DNGR'
+      aliases:
+        - 'dng'
+        - 'dngr'
+        - 'daynightgamerule'
+permissions:
+  daynightgamerule.bypass:
+    default: op
+    description: "Keep inventory everytime, everywhere"
